@@ -17,7 +17,7 @@ Após instalar, entre no diretório pai para usar o módulo:
 
 2. Crie um arquivo `xml` de exemplo.
 
-`echo "<xml><name>John Doe</name></xml>" > example.xml
+`echo "<xml><name>John Doe</name></xml>" > example.xml`
 
 3. Assine o arquivo:
     
